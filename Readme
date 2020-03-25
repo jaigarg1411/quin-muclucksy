@@ -1,0 +1,8 @@
+Instructions to run the program:-
+1. Copy the input file to the folder containing the cpp files.
+2. Name the input file as "input.txt".
+3. Open terminal.
+4. Execute taska and taskb
+5. Wait for a while, until minimised expression is calculated.
+6. Minimised expression will be output on terminal.
+7. Min terms corresponding to the expression will be output in text document named output.txt.
